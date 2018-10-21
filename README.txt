@@ -32,6 +32,6 @@ Problem is I have a concrete implementation of the client in my test class. If I
 
 If I had more time, I would create a POJO object for the JSON response. This way, I would deal with objects instead of JSON string responses and JsonPath expression which can get messy. However, this may be overkill depending on how often you will be using the POJO for your other tests.  
 
-If I had more time, I would use JUNIT5 but I was having trouble getting the JUNIT5 plugin installed on my Eclipse IDE. Probably should have used Intelliji. JUNIT5 provides more detailed reports.  
+If I had more time, I would use JUNIT5 but I was having trouble getting the JUNIT5 plugin installed on my Eclipse IDE. Probably should have used Intelliji. JUNIT5 provides more detailed reports..  
 
 
